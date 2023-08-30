@@ -1,0 +1,28 @@
+name: flutter_application_1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+assets:
+
+  - assets/Images/dice-1.png
+  - assets/Images/dice-2.png
+  - assets/Images/dice-3.png
+  - assets/Images/dice-4.png
+  - assets/Images/dice-5.png
+  - assets/Images/dice-6.png
